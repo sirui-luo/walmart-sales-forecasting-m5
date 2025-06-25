@@ -1,6 +1,6 @@
 # Walmart Sales Forecasting
 
-Predicting the next 28 days of unit sales using Walmart's historical retail data.
+This project aims to predict the next 28-day unit sales of Walmart products using the M5 Forecasting dataset from Kaggle. We approach this as a time series forecasting challenge and evaluate both deep learning and tree-based models to capture temporal trends, seasonality, and promotional effects.
 
 ## Objective
 
