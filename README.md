@@ -11,13 +11,13 @@ This involves developing robust models capable of identifying and leveraging var
 ## Dataset
 The M5 Forecasting - Accuracy dataset, provided by Walmart, is a rich and challenging time series dataset hosted on Kaggle. It contains:
 
-Hierarchical Sales Data: Unit sales for 3,049 products sold in 10 stores across 3 states (California, Texas, Wisconsin).
+* Hierarchical Sales Data: Unit sales for 3,049 products sold in 10 stores across 3 states (California, Texas, Wisconsin).
 
-Temporal Information: Daily sales data spanning from 2011 to 2016.
+* Temporal Information: Daily sales data spanning from 2011 to 2016.
 
-Calendar Events: Information about holidays, special events (e.g., Super Bowl, Valentine's Day), and other relevant calendar details.
+* Calendar Events: Information about holidays, special events (e.g., Super Bowl, Valentine's Day), and other relevant calendar details.
 
-Promotional Information: Details on price changes and promotional activities (e.g., "snap" sales events).
+* Promotional Information: Details on price changes and promotional activities (e.g., "snap" sales events).
 
 The dataset is particularly challenging due to its hierarchical nature, sparsity for new products, and complex interactions between various features.
 
