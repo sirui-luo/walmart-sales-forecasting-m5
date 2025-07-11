@@ -17,8 +17,6 @@ The M5 Forecasting - Accuracy dataset [M5 Forecasting](https://www.kaggle.com/co
 
 * Promotional Information: Details on price changes and promotional activities (e.g., "snap" sales events).
 
-The dataset is particularly challenging due to its hierarchical nature, sparsity for new products, and complex interactions between various features.
-
 ## Exploratory Data Analysis
 State-level daily sales overtime
 
