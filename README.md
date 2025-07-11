@@ -19,6 +19,13 @@ The M5 Forecasting - Accuracy dataset [M5 Forecasting](https://www.kaggle.com/co
 
 The dataset is particularly challenging due to its hierarchical nature, sparsity for new products, and complex interactions between various features.
 
+## Exploratory Data Analysis
+State-level sales 
+<img width="928" height="293" alt="image" src="https://github.com/user-attachments/assets/4a612fa7-432a-46eb-a894-474019711958" />
+
+Total sales by store
+<img width="812" height="385" alt="image" src="https://github.com/user-attachments/assets/29f7b7b0-b34f-4e05-9862-673c25a7dceb" />
+
 ## Methodology & Models Explored
 
 * Feature Engineering: Extensive feature engineering was performed to extract valuable information from the raw data, including:
